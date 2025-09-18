@@ -1,5 +1,5 @@
 # BGT-Epoch
-BattlegroundTargets for Project Epoch
+BattlegroundTargets from Classic backported to Project Epoch
 
 - A Friend-Enemy-Unit-Frame for battlegrounds.
 - Use /bgt in the chat for config panel.
